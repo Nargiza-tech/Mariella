@@ -141,13 +141,15 @@ nav ul li {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-top: 118px;
+    padding-top: 75px;
     color: #B99BB6;
 
 }
 
 .aboutMe-span{
+    color: #B99BB6;
     font-family: Roboto;
+    margin-bottom: 13px;
     font-size: 14px;
     line-height: 30px;
     letter-spacing: 1.5px;
@@ -156,6 +158,7 @@ nav ul li {
 }
 
 .aboutMe-p{
+    margin: 0;
     width: 747px;
     height: 76px;
     font-family: Cormorant Garamond;
@@ -164,6 +167,7 @@ nav ul li {
 }
 
 .aboutMe-btn{
+    margin-top: 17px;
     height: 45px;
     padding: 16px 29px;
     background: none;
@@ -201,19 +205,6 @@ nav ul li {
     background-color: #CEB3CB;
 }
 
-
-
-.aboutMeImg{
-}
-
-
-.myProductsImg{
-
-}
-
-.contactMe{
-
-}
 
 
 .mt{
